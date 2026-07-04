@@ -304,7 +304,8 @@ error = 1
 The complete router was verified using a Verilog testbench. The waveform confirms successful packet transmission, destination routing, FIFO operations, and parity verification.
 
 <p align="center">
-<img src="images/top.jpg" width="1000">
+<img width="1468" height="738" alt="top" src="https://github.com/user-attachments/assets/efa53c16-1ffa-4c8d-92e5-f378a686c8f4" />
+>
 </p>
 
 ---
@@ -314,7 +315,8 @@ The complete router was verified using a Verilog testbench. The waveform confirm
 The waveform verifies state transitions, packet loading, FIFO control, and busy signal generation.
 
 <p align="center">
-<img src="images/FSM.jpg" width="1000">
+<img width="1821" height="567" alt="FSM" src="https://github.com/user-attachments/assets/57217631-c41e-4f56-8544-72b115dea781" />
+>
 </p>
 
 Verified:
@@ -331,7 +333,8 @@ Verified:
 The Register module successfully captures packet data and performs parity generation and verification.
 
 <p align="center">
-<img src="images/REG.jpg" width="1000">
+<img width="1801" height="448" alt="REG" src="https://github.com/user-attachments/assets/aa027cb8-8eed-40c5-bd34-70aa0626d33c" />
+>
 </p>
 
 Verified:
@@ -348,7 +351,8 @@ Verified:
 The Synchronizer correctly decodes destination addresses and enables the appropriate FIFO.
 
 <p align="center">
-<img src="images/SYN.jpg" width="1000">
+<img width="1855" height="634" alt="SYN" src="https://github.com/user-attachments/assets/73b613dc-fbef-4abe-a3fd-a7f781510465" />
+>
 </p>
 
 Verified:
@@ -365,7 +369,8 @@ Verified:
 The FIFO waveform confirms successful write, read, full, and empty operations.
 
 <p align="center">
-<img src="images/FIFO.jpg" width="1000">
+<img width="1813" height="283" alt="FIFO" src="https://github.com/user-attachments/assets/37b81a62-6aa7-41b7-bb97-fbe8e7073963" />
+>
 </p>
 
 Verified:
